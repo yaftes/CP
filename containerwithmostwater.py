@@ -16,4 +16,8 @@ class Solution:
             mx = max(mx,curr)
         return mx
 
+<<<<<<< HEAD
         
+=======
+        
+>>>>>>> 49750048d5e1a208d0dcee2c79f1289931622487
